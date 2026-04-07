@@ -1,10 +1,10 @@
-# 🌾 Crop Recommendation System using Neural Networks
+# Crop Recommendation System using Neural Networks
 
 A machine learning project that recommends the most suitable crop to grow based on soil nutrient levels and climate conditions, using a feedforward neural network built with TensorFlow/Keras.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Dataset](#dataset)
